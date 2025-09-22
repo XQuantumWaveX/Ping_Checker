@@ -130,9 +130,11 @@ Lists all 72 predefined test types in a table. Example:
 
 ## Notes
 
--   Best used against test or staging environments.\
--   May generate **high request loads** depending on settings.\
+-   Best used against test or staging environments.
+-   May generate **high request loads** depending on settings.
 -   Not recommended for use against production systems without
     permission.
+
+    I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THIS SCRIPT. PEOPLE WHO USE THIS SCRIPT NEED TO BE AWARE OF THEIR ACTIONS.
 
 ------------------------------------------------------------------------
