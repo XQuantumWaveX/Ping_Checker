@@ -83,7 +83,7 @@ Requirements (`requirements.txt`):
 ### Run the tool
 
 ``` bash
-python pingtest.py --url https://example.com --max_requests 50
+python Ping_Test.py --url https://example.com --max_requests 50
 ```
 
 You will be prompted to select **easy mode** or **advanced mode**.
@@ -136,7 +136,3 @@ Lists all 72 predefined test types in a table. Example:
     permission.
 
 ------------------------------------------------------------------------
-
-## License
-
-MIT License © 2025 Your Name
