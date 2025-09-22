@@ -69,12 +69,8 @@ Clone this repository and install dependencies:
 ``` bash
 git clone https://github.com/XQuantumWaveX/Ping_Checker/
 cd Ping_Checker
-pip install -r requirements.txt
+pip install requests
 ```
-
-Requirements (`requirements.txt`):
-
-    requests
 
 ------------------------------------------------------------------------
 
