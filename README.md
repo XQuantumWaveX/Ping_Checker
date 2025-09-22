@@ -134,3 +134,11 @@ Lists all 72 predefined test types in a table. Example:
     I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THIS SCRIPT. PEOPLE WHO USE THIS SCRIPT NEED TO BE AWARE OF THEIR ACTIONS.
 
 ------------------------------------------------------------------------
+
+
+
+
+
+TO ADD:
+
+- An option to stay between different Byte Sizes if you want to know the EXACT Byte
