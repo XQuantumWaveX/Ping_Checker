@@ -50,7 +50,7 @@ The tool varies the following test attributes:
 
   **Stacking**   `yes`, `no`                                Sends multiple
                                                             stacked pings
-                                                            per iteration
+                                                            per iteration (IN TESTING)
 
   **Delay**      `none`, `fixed`, `dynamic`                 Adds
                                                             artificial
