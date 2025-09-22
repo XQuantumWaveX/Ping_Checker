@@ -130,6 +130,7 @@ Lists all 72 predefined test types in a table. Example:
 -   May generate **high request loads** depending on settings.
 -   Not recommended for use against production systems without
     permission.
+-   SCRIPT OUTPUT DEPENDS ON NETWORK SPEED AND CPU SPEED
 
     I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THIS SCRIPT. PEOPLE WHO USE THIS SCRIPT NEED TO BE AWARE OF THEIR ACTIONS.
 
