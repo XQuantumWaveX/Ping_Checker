@@ -1,9 +1,6 @@
 # Ping_Checker
 A tool to check when an website denys an request.
 
-
-# HTTP Ping Test Tool
-
 A Python-based interactive **HTTP ping tester** that simulates different
 network conditions by varying speed, growth, size, stacking, and delay.\
 The tool can run in **easy mode** (guided prompts) or **advanced mode**
