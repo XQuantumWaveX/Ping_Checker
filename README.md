@@ -67,8 +67,8 @@ This results in **72 unique test types**.
 Clone this repository and install dependencies:
 
 ``` bash
-git clone https://github.com/yourusername/http-ping-test.git
-cd http-ping-test
+git clone https://github.com/XQuantumWaveX/Ping_Checker/
+cd Ping_Checker
 pip install -r requirements.txt
 ```
 
